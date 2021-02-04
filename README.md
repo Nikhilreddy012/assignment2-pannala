@@ -47,5 +47,20 @@ The following table provides a list of best places in the world that one should 
 
 > "Life is like riding a bicycle. To keep your balance you must keep moving." - *Albert Einstein*
 
+---
+
+## Introduction to MUMPS
+
+> MUMPS ("Massachusetts General Hospital Utility Multi-Programming System"), or M, is an integrated programming language and key–value database originally developed at Massachusetts General Hospital for managing hospital laboratory information systems. - <https://en.wikipedia.org/wiki/MUMPS>
+
+```
+fib ; compute the first few Fibonacci terms
+    new i,a,b,sum
+    set (a,b)=1 ; Initial conditions
+    for i=1:1 do  quit:sum>1000
+    . set sum=a+b
+    . write !,sum
+```
+Code Source - <https://learnxinyminutes.com/docs/m/>
 
 [About Me](AboutMe.md)
