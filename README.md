@@ -40,6 +40,11 @@ The following table provides a list of best places in the world that one should 
 | Switzerland | 48 hr | 2000$ |
 | New York    | 48 hr | 2500$ |
 
+[Newyork](images/locations/newyork.jpg)
+[Paris](images/locations/paris.jpg)
+[London](images/locations/london.jpg)
+[Switzerland](images/locations/switzerland.jpg)
+
 ---
 
 ## My favourite quotes
