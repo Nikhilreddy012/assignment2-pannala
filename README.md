@@ -40,5 +40,12 @@ The following table provides a list of best places in the world that one should 
 | Switzerland | 48 hr | 2000$ |
 | New York    | 48 hr | 2500$ |
 
+---
+
+## My favourite quotes
+> "Dream is not something which you see while sleeping, it is something that does not let you sleep." - *APJ Abdul Kalam*
+
+> "Life is like riding a bicycle. To keep your balance you must keep moving." - *Albert Einstein*
+
 
 [About Me](AboutMe.md)
