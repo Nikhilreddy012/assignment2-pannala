@@ -27,5 +27,18 @@
 * Rice
 * Onions
 
+---
+
+### World's best places to visit
+
+The following table provides a list of best places in the world that one should visit at least once in their life. It also provides the time you need to spend at a specific location and the money it will cost you.
+
+| Location | Time  | Money  |
+| --- | --- | --- |
+| Paris       | 72 hr | 2000$ |
+| London      | 48 hr | 1500$ |
+| Switzerland | 48 hr | 2000$ |
+| New York    | 48 hr | 2500$ |
+
 
 [About Me](AboutMe.md)
