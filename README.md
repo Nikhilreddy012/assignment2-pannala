@@ -17,3 +17,12 @@
 4. Add half the rice to the bottom of the pot.
 5. Top the rice with chicken in sigle layer.
 6. Lastly add the rest of the rice and cover the lid and heat it for 20 minutes. 
+
+* Vegetable oil
+* Chicken
+* Green leaves
+    * Bay leaf
+    * Corrainder
+    * Mint
+* Rice
+* Onions
